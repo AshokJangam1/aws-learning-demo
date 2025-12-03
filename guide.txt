@@ -1,0 +1,5 @@
+first type "aws configure" in vs terminal and it will ask
+AWS Access Key ID [****************RGYW]: "enter your aws access key id here"
+next AWS secret Key ID [****************RGYW] : " enter your secret key id here"
+
+it will conneted to AWS root user successfully.
